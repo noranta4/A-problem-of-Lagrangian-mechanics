@@ -1,4 +1,4 @@
-# A-problem-of-Lagrangian-mechanics
+# A problem of Lagrangian mechanics
 The motion of massive point with many constraints. Application of Runge-Kutta methods to find approximate solutions of equations of motion.
 
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
@@ -40,7 +40,7 @@ due punti consecutivi sul file.
 I file di output sono nominati `anCOST%CI%.txt` dove al posto di % ci sono le lettere corrispondenti
 alla particolare scelta di costanti e condizioni iniziali.
 
-#Examples of **p** trajectories in cartesian coordinates and a plot of the potential energy **U** vs **x** and **theta**.
+## Examples of **p** trajectories in cartesian coordinates and a plot of the potential energy **U** vs **x** and **theta**.
 ![flower](https://raw.githubusercontent.com/noranta4/A-problem-of-Lagrangian-mechanics/master/img/flower.PNG)
 
 ![net](https://raw.githubusercontent.com/noranta4/A-problem-of-Lagrangian-mechanics/master/img/net.PNG)
