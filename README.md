@@ -1,6 +1,8 @@
 # A problem of Lagrangian mechanics
 The motion of massive point with many constraints. Application of Runge-Kutta methods to find approximate solutions of the equations of motion.
 
+Final project of Laboratorio di Fisica Computazionale, prof. Federico Ricci Tersenghi.
+
 University project • 2014 - Laboratorio di Fisica Computazionale - BSc in Physics, II year
 
 The full relation can be found in `A_problem_of_Lagrangian_mechanics.pdf`. The code is in `A_problem_of_Lagrangian_mechanics.c`
